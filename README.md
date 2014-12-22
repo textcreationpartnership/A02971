@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A letter written by the king of Nauarr, to the three estates of Fraunce containing a most liuely des
+
 #####Body#####
-A letter written by the king of Nauarr, to the three estates of Fraunce containing a most liuely des
+
+1. ¶ A Letter written by the King of Nauarr to the three eſtates of France, containing a declaration of the ſaid King, vpon the matters happened in France ſithens the 23. of December 1588.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
